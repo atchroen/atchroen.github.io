@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atchroen.github.io/atchroen.txt.gz
+Sitemap: https://atchroen.github.io/app/atchroen.txt.gz
+Sitemap: https://atchroen.github.io/assets/atchroen.txt.gz
+Sitemap: https://atchroen.github.io/css/atchroen.txt.gz
+Sitemap: https://atchroen.github.io/includes/atchroen.txt.gz
+Sitemap: https://atchroen.github.io/item/atchroen.txt.gz
+Sitemap: https://atchroen.github.io/src/atchroen.txt.gz
